@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Miiel
- *
- */
-module Bandeirazil {
-}
